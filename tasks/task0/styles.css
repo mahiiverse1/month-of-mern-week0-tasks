@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+*{
+    font-family: 'Roboto Mono';
+    text-align: center;
+
+}
+.colors {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+}
+
+.flexbox div{
+    margin: 40px;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+#wheel{
+    display: flex;
+    justify-content: center;
+}
